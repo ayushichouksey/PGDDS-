@@ -1,14 +1,10 @@
-# Following script contains solution to
-#
-# COURSE :- Statistics and Exploratory Data Analytics
-# MODULE :- Uber Supply- Demand Gap
-#
+
 ##========================= ASSUMPTIONS =====================================
 
 # We assume that working directory is set throught Session-> Set Working Directory, To the folder were all the following files are kept for the assignment.
 # Or  
 # Set working directory
-setwd("D:/course 2/uber case study")
+setwd("folder_path")
 getwd()
 
 #============= CHECK  AND INSTALL PACAKGES ================
