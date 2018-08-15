@@ -1,19 +1,4 @@
-# FOLLOWING SCRIPT CONTAIN SOULTION TO
-#
-# COURSE :- Pridictive Analytics I
-# MODULE :- Assignment Linear Regression
-#
-#Submitted by :- Ayushi Chouksey (Roll no. :- DDA1810142) 
-#
-#
-#========================= ASSUMPTIONS =======================================
-#
-#  1. I assume that working directory is set throught Session-> Set Working Directory to the folder where all necessary files are kept
-#  2. The data is not in zip file but exploded in the working directory.
-#
-setwd("D:/course 3/M2-assignment LR")
-getwd()
-#
+
 #========================= CHECK  AND INSTALL PACAKGES =======================
 #
 #Check if pacakges are installed or not and if not get them installed
